@@ -17,6 +17,12 @@ body {
     border: 3px solid #931420;
     padding-bottom: 50px;
     background-color: #fffded;
+    font-size: 12pt;
+}
+
+nav{
+    color: #fffded;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 header {
